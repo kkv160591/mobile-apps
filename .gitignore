@@ -1,0 +1,15 @@
+# dependencies
+**/node_modules
+
+# expo
+**/.expo
+
+# env
+**/.env
+
+# builds
+**/dist
+**/build
+
+# logs
+npm-debug.log
